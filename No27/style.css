@@ -1,0 +1,10 @@
+div#main{
+  padding:0 1.5em;
+}
+.hutomoji {
+  font-weight: bold;
+  color:red;
+}
+p{
+  text-indent: 1em;
+}
